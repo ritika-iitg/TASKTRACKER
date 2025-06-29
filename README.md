@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
-**npm start**
+**npm start**  
+
 Runs the app in development mode.  
 
 Open http://localhost:3000 to view it in the browser.  
@@ -19,13 +20,15 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.  
 
 
-**npm test**
+**npm test**  
+
 Launches the test runner in interactive watch mode.  
 
 Refer to the section on running tests for more information.  
 
 
-**npm run build**
+**npm run build**  
+
 Builds the app for production in the build folder.  
 
 It correctly bundles React in production mode and optimizes the build for the best performance.  
@@ -39,7 +42,8 @@ Your app is ready to be deployed!
 Refer to the section on deployment for more information.  
 
 
-**npm run eject**
+**npm run eject**  
+
 Note: this is a one-way operation. Once you eject, you can’t go back!  
 
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.  
